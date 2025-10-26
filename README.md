@@ -21,11 +21,11 @@ View Anthropic's docs [here](https://docs.anthropic.com/en/docs/build-with-claud
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/PallavAg/claude-computer-use-macos.git
+   git clone https://github.com/hymansun/claude-computer-use-macos.git
    cd claude-computer-use-macos
    ```
 
-2. **Create a virtual environment + install dependencies:**
+2. **Create a virtual environment + install dependencies:** 
 
    ```bash
    python3.12 -m venv venv
